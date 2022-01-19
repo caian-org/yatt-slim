@@ -78,21 +78,21 @@
     "regenerator-runtime": "^0.13.9"
   },
   "devDependencies": {
-    "@types/node": "^16.11.12",
+    "@types/node": "^16.11.21",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "eslint": "^7.32.0",
     "eslint-config-standard-jsx": "^10.0.0",
     "eslint-config-standard-with-typescript": "^21.0.1",
-    "eslint-plugin-import": "^2.25.3",
-    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-react": "^7.28.0",
     "husky": "^7.0.4",
-    "jscpd": "^3.4.2",
+    "jscpd": "^3.4.5",
     "nodemon": "^2.0.15",
     "npm-check-updates": "^11.8.5",
     "prettier": "^2.5.1",
     "standardx": "^7.0.0",
     "ts-node": "^10.4.0",
-    "typescript": "^4.5.2"
+    "typescript": "^4.5.4"
   }
 }
