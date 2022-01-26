@@ -78,7 +78,7 @@
     "regenerator-runtime": "^0.13.9"
   },
   "devDependencies": {
-    "@types/node": "^16.11.21",
+    "@types/node": "^17.0.12",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "eslint": "^7.32.0",
@@ -89,10 +89,10 @@
     "husky": "^7.0.4",
     "jscpd": "^3.4.5",
     "nodemon": "^2.0.15",
-    "npm-check-updates": "^11.8.5",
+    "npm-check-updates": "^12.2.1",
     "prettier": "^2.5.1",
     "standardx": "^7.0.0",
     "ts-node": "^10.4.0",
-    "typescript": "^4.5.4"
+    "typescript": "^4.5.5"
   }
 }
